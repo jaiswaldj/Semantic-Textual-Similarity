@@ -27,6 +27,7 @@ Jaccard similarity or intersection over union is defined as size of intersection
 
 Sentence 1: AI is our friend and it has been friendly
 Sentence 2: AI and humans have always been friendly
-In order to calculate similarity using Jaccard similarity, we will first perform lemmatization to reduce words to the same root word. In our case, “friend” and “friendly” will both become “friend”, “has” and “have” will both become “has”. For the above two sentences, we get Jaccard similarity of 5/(5+3+2) = 0.5 which is size of intersection of the set divided by total size of set.
+In order to calculate similarity using Jaccard similarity, we will first perform lemmatization to reduce words to the same root word. In our case, “friend” and “friendly” will both become “friend”, “has” and “have” will both become “has”. For the above two sentences,
+we get Jaccard similarity of 5/(5+3+2) = 0.5 which is size of intersection of the set divided by total size of set.
 
 
