@@ -12,12 +12,14 @@ The data contains a pair of paragraphs. These text paragraphs are randomly sampl
 
 0 means highly dissimilar
 
+
 Preprocessing of text1 & text 2
 
 Convert phrases like won't to will not using function decontracted() below
 Remove Stopwords
 Remove any special symbol and lower case all words
 Lemmatizing words using WordNetLemmatizer define in function word_tokenizer below
+
 
  Method (Jaccard similarity)
 
