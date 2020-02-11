@@ -1,4 +1,4 @@
-# Semantic-Textual-Similarity
+# Semantic-Textual-Similarity USING (NLP)
 
 Problem Statement
 
